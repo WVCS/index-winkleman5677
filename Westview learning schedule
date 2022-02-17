@@ -12,8 +12,28 @@
      <th> Class  </th>
      
      <th> Teacher </th>
-    
-  <table>
+  </tr>
+    <tr>
+      <td> 1 </td>
+      <td> Band </td>
+       <td> Fierro </td>
+    </tr>
+    <tr>
+    <td> 2 </td>
+      <td> L/strats </td>
+       <td> Osborn </td>  
+        </tr>
+     <tr>
+    <td> 3 </td>
+      <td> Computer </td>
+       <td> Neumann </td>
+       </tr>
+     <tr>
+    <td> 4 </td>
+      <td> Biology </td>
+       <td> Jerome </td>
+       </tr>  
+ <table>
     
  <html>
  <html>
