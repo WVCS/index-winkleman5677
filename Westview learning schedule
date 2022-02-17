@@ -1,0 +1,55 @@
+<nav>
+<li><li><a href="index. html">HOME</li>  
+    <li><li><a href="index. html">other page</li>  
+</nav>
+<br>
+<center>
+  <h1> Finals week
+  <table>
+   <tr>
+     <th> PERIOD </th>
+     
+     <th> Class  </th>
+     
+     <th> Teacher </th>
+    
+  <table>
+    
+ <html>
+ <html>
+ <html>
+ <html>
+       
+    h1 {
+  Color: salmon;
+Font-Size: 60px;
+}
+Body {
+Background-color: #FFEC51; 
+}
+Body{
+ Border: dashed 20px #F02D3A;
+}
+img:hover {
+  Color: #DBFFFD;
+ Border:dotted 10px black;
+}
+h1: hover{
+ Color: #5765E6;
+  front-size: 150px;
+}
+nav{
+  list-style-type: none;
+  position: fixed;
+  background-color: #8CABF5; French Sky Blue
+}
+li{
+ display: inline;
+  padding: 10px;
+}
+
+table, th, td, tr {
+  border: dashed gray 2px;
+  border-collapse: collapsed;
+  padding: 8px;
+}
